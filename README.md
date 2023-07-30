@@ -1,3 +1,3 @@
 # Shop
-![Project Logo](images/project_logo.png)
+![Project Logo](images/demo-1.png)
 
