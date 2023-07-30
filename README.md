@@ -1,2 +1,3 @@
 # Shop
-shopping website
+![Project Logo](images/project_logo.png)
+
